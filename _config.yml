@@ -1,6 +1,6 @@
 name: Jack's-website
 title: "Jack Handy"
-description: My website
+description: Programmer at Quinnipiac University
 plugins:
   - jemoji
 theme: jekyll-theme-midnight
