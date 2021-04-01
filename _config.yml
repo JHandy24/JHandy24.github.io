@@ -2,5 +2,5 @@ name: Jack's-website
 title: null
 plugins:
   - jemoji
-theme: jekyll-theme-minimal
+theme: jekyll-theme-midnight
 exclude: ['./README.md']
