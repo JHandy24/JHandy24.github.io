@@ -1,5 +1,6 @@
 name: Jack's-website
-title: null
+title: "Jack Handy"
+description: My website
 plugins:
   - jemoji
 theme: jekyll-theme-midnight
