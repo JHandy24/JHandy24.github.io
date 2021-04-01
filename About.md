@@ -1,3 +1,5 @@
+[Home](./)
+
 # About me
 <br />
 ## General
@@ -10,5 +12,5 @@ I am currently enrolled at Quinnipiac University in Connecticut working towards 
 Although Computer Science takes up the majority of my time, I have a lot of other interests and hobbies to keep me busy. I have been lifting weights for a few years now and I go to the gym at least 5 times a week. I use the gym to get my mind off of things but also because I like to work on myself a lot. Another one of my hobbies/interests is golf. I have been playing golf since I was about 12 years old and I played all throughout high school. I have been to multiple state championships and there is nowhere I would rather be than a golf course in the summer. Lastly, I really enjoy hanging out with friends and family. Whether it's swimming in the pool, skiing, or hanging by the fire, it's my favorite thing to do.
 <br />
 ## Images
-![Me](./assets/images/dogpic.jpg)
-![Lax](./assets/images/laxpic.jpg)
+![My Dog And I](./assets/images/dogpic.jpg)
+![Lacrosse](./assets/images/laxpic.jpg)
