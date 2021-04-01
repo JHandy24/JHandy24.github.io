@@ -1,3 +1,5 @@
+[Go to the Home page](./index)
+[Go to the About me page](./About)
 # My projects  :raised_hands:
 Below are two of my favorite projects that I have done. Click on the link to see the repo for the projects.
 <br />
