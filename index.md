@@ -7,3 +7,4 @@ My Name is Jack Handy and this is my personal website. I created this site as a 
 [Click here to learn about me!](./About)
 <br />
 [Click here to see some of my projects!](./Projects)
+![Coding Pic](./assets/images/Coding.jpg)
